@@ -1,0 +1,10 @@
+{
+	"devDependencies": {
+		"@aws-cdk/aws-amplify-alpha": "2.97.0-alpha.0",
+		"aws-cdk-lib": "^2.97.0",
+		"constructs": "^10.2.70"
+	},
+	"dependencies": {
+		"aws-cdk": "^2.97.0"
+	}
+}
