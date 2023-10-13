@@ -94,7 +94,7 @@ export class AmplifyStack extends Stack {
 
     // Attach your main branch and define the branch settings (see below)
     const mainBranch = amplifyApp.addBranch('main', {
-      autoBuild: false, // set to true to automatically build the app on new pushes
+      autoBuild: true, // set to true to automatically build the app on new pushes
       stage: 'PRODUCTION',
     });
 
