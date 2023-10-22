@@ -8,4 +8,4 @@ Deployment code: https://github.com/devkit-io/nextjs-amplify-starter-kit/tree/ma
 
 ## Deploy on AWS
 
-The easiest way to deploy your Next.js app is to use  [Dev-kit.io](https://app.dev-kit.io)
+The easiest way to deploy your Next.js app is to use  [Dev-kit.io](https://dev-kit.io)
